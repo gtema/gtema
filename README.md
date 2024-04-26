@@ -1,8 +1,8 @@
-### Hi there, I'm Artem 👋
+### Hi there, my name is Artem 👋
 
-#### a passionated innovator and supported of opensource from Germany :de:
+#### a passionated innovator and supporter of opensource from Germany :de:
 
-My current activity is focused in the OpenStack, especially in introducing Rust in the client facing ecosystem.
+My current activity is focused in the OpenStack, especially in introducing Rust in the client facing tooling ecosystem.
 
 #### A small selection of projects I am involved in:
 
@@ -14,4 +14,4 @@ My current activity is focused in the OpenStack, especially in introducing Rust 
 - [Ansible modules OpenStack](https://opendev.org/openstack/ansible-collections-openstack)
 - [StackMon](https://github.com/stackmon)
 
-If you want to support my work, consider [sponsoring me](https://github.com/sponsors/gtema)! 💖
+If you want to appreciate my work please consider [sponsoring me](https://github.com/sponsors/gtema)! 💖
