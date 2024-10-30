@@ -9,8 +9,8 @@ My current activity is focused in the OpenStack, especially in introducing Rust 
 - [Python OpenStackSDK](https://opendev.org/openstack/openstacksdk)
 - [Python OpenStackClient](https://opendev.org/openstack/python-openstackclient)
 - [OpenStack codegenerator](https://opendev.org/openstack/codegenerator)
-- [Rust OpenStack SDK](https://github.com/gtema/openstack/openstack_sdk)
-- [Rust OpenStack_CLI](https://github.com/gtema/openstack/openstack_cli)
+- [Rust OpenStack SDK](https://github.com/gtema/openstack/tree/main/openstack_sdk)
+- [Rust OpenStack_CLI](https://github.com/gtema/openstack/tree/main/openstack_cli)
 - [Ansible modules OpenStack](https://opendev.org/openstack/ansible-collections-openstack)
 - [StackMon](https://github.com/stackmon)
 
