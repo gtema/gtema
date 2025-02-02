@@ -1,6 +1,6 @@
 ### Hi there, my name is Artem 👋
 
-#### a passionated innovator and supporter of opensource from Germany :de:
+#### a passionated innovator and opensource supporter from somewhere in Germany :de:
 
 My current activity is focused in the OpenStack, especially in introducing Rust in the client facing tooling ecosystem.
 
